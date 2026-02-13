@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../dev/imu-ocs"
+		},
+		{
+			"name": "imu-osc",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
